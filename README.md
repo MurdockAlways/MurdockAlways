@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MurdockAlways
-- 👀 I’m Passionate About Automations And Scripting, I Do Script Things Randomly Accoding To My Wish, Will and Interest! :)
+- 👀 I’m Passionate About Automations And Scripting, I Do Script Things Randomly According To My Wish, Will and Interest! :)
 - 🌱 Just A Fellow CS Student!
 
 <!---
